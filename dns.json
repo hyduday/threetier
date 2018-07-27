@@ -4,7 +4,7 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "testapp.mohansyntest.tk",
+        "Name": "mydemoapp.udaya.ga",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
